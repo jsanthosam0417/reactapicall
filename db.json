@@ -7,15 +7,13 @@
   },
   {
     name: "Ferrari",
-    imgURL:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMsyBwlDtKwS371ToiwRahzbd-a3pmeaCfbM8Gp-NNQVEtbarriMUnfzoSGjp-zF9-JQ&usqp=CAU",
+    imgURL: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMsyBwlDtKwS371ToiwRahzbd-a3pmeaCfbM8Gp-NNQVEtbarriMUnfzoSGjp-zF9-JQ&usqp=CAU",
     phone: "+987 654 321",
     email: "fe@fe.com"
   },
   {
     name: "Mercedes Benz",
-    imgURL:
-      "https://www.mercedes-benz.com/en/vehicles/passenger-cars/concept-cars/_jcr_content/image/MQ6-12-image-20200908114040/00-mercedes-benz-eq-concept-cars-2560x1440.jpeg",
+    imgURL: "https://www.mercedes-benz.com/en/vehicles/passenger-cars/concept-cars/_jcr_content/image/MQ6-12-image-20200908114040/00-mercedes-benz-eq-concept-cars-2560x1440.jpeg",
     phone: "+918 372 574",
     email: "mb@mb.com"
   }
