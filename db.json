@@ -1,4 +1,4 @@
-{
+[
   
   {
     name: "Rolls-Royce",
@@ -19,4 +19,4 @@
     email: "mb@mb.com"
   }
 
-}
+]
