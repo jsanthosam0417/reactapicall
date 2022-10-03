@@ -1,4 +1,5 @@
-[
+{
+  [
   {
     name: "Rolls-Royce",
     imgURL: "https://static.toiimg.com/photo/msid-91545248/91545248.jpg",
@@ -18,3 +19,4 @@
     email: "mb@mb.com"
   }
 ]
+}
